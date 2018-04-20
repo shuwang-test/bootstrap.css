@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap.css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shuxiaowang5456 <shuxiaowang5456@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.0"
+  }
+}
