@@ -1,0 +1,30 @@
+div{
+    margin: 100px;
+    outline: 1px solid #495057;
+    padding: 1rem;
+}
+
+html{
+    font-size: 16px;
+}
+
+.input{
+    display: inline-block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+input:focus{
+    border-color: #7952b3;
+    box-shadow: 0 0 0 3px rgba(121,82,179,.25);
+    outline: none;
+}
