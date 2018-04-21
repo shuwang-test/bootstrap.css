@@ -1,0 +1,128 @@
+body {
+  background-color: #fff;
+}
+
+div.container {
+  width: 1200px;
+  margin: 40px auto;
+}
+
+div.container:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+div.container > div {
+  float: left;
+  font-size: 0;
+  margin: 0.5rem;
+}
+
+div.container > div > span {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 20px;
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+  margin: 0.25rem;
+}
+
+div.container > div > span:first-child {
+  border: 1px solid #ececec;
+}
+
+div.container > div:nth-child(1) > span:nth-child(2) {
+  background-color: #007bff;
+}
+
+div.container > div:nth-child(2) > span:nth-child(2) {
+  background-color: #17a2b8;
+}
+
+div.container > div:nth-child(3) > span:nth-child(2) {
+  background-color: #28a745;
+}
+
+div.container > div:nth-child(4) > span:nth-child(2) {
+  background-color: #6610f2;
+}
+
+div.container > div:nth-child(5) > span:nth-child(2) {
+  background-color: #fd7e14;
+}
+
+div.container > div:nth-child(6) > span:nth-child(2) {
+  background-color: #e83e8c;
+}
+
+div.container > div:nth-child(7) > span:nth-child(2) {
+  background-color: #6f42c1;
+}
+
+div.container > div:nth-child(8) > span:nth-child(2) {
+  background-color: #dc3545;
+}
+
+div.container > div:nth-child(9) > span:nth-child(2) {
+  background-color: #20c997;
+}
+
+div.container > div:nth-child(10) > span:nth-child(2) {
+  background-color: #ffc107;
+}
+
+div.container > div:nth-child(11) > span:nth-child(2) {
+  background-color: #868e96;
+}
+
+div.container > div:nth-child(12) > span:nth-child(2) {
+  background-color: #5a6268;
+}
+
+div.container > div:nth-child(13) > span:nth-child(2) {
+  background-color: #343a40;
+}
+
+div.container > div:nth-child(14) > span:nth-child(2) {
+  background-color: #333333;
+}
+
+div.container > div:nth-child(15) > span:nth-child(2) {
+  background-color: #23272b;
+}
+
+div.container > div:nth-child(16) > span:nth-child(2) {
+  background-color: #28a745;
+}
+
+div.container > div:nth-child(17) > span:nth-child(2) {
+  background-color: #563d7c;
+}
+
+div.container > div:nth-child(18) > span:nth-child(2) {
+  background-color: #563d7c;
+}
+
+div.container > div:nth-child(19) > span:nth-child(2) {
+  background-color: #563d7c;
+}
+
+div.container > div:nth-child(20) > span:nth-child(2) {
+  background-color: #563d7c;
+}
+
+div.container > div:nth-child(21) > span:nth-child(2) {
+  background-color: #563d7c;
+}
+
+div.container > div:nth-child(22) > span:nth-child(2) {
+  background-color: #563d7c;
+}
+
+div.container > div:nth-child(23) > span:nth-child(2) {
+  background-color: #563d7c;
+}
+/*# sourceMappingURL=background-color.css.map */
